@@ -225,12 +225,10 @@ function App() {
 
         // Set up authentication configuration
         if (awsConfig.userPoolId && awsConfig.userPoolWebClientId) {
-          console.log('AWS configuration loaded successfully');
         }
 
         // Configure API endpoints
         if (awsConfig.apiGatewayUrl) {
-          console.log('API Gateway endpoint configured');
         }
         
         // Simulate initialization delay

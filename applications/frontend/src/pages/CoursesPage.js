@@ -119,7 +119,7 @@ const CoursesPage = () => {
           students: 45,
           lessons: 12,
           duration: '8 weeks',
-          icon: '☁️'
+          icon: 'Cloud'
         },
         {
           id: '2',
@@ -129,7 +129,7 @@ const CoursesPage = () => {
           students: 32,
           lessons: 15,
           duration: '10 weeks',
-          icon: '⚛️'
+          icon: 'React'
         },
         {
           id: '3',
@@ -139,7 +139,7 @@ const CoursesPage = () => {
           students: 28,
           lessons: 18,
           duration: '12 weeks',
-          icon: '🗄️'
+          icon: 'Database'
         }
       ];
 

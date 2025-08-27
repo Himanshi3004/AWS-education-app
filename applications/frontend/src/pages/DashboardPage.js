@@ -141,27 +141,27 @@ const DashboardPage = () => {
           <h2>Quick Actions</h2>
           <ActionGrid>
             <ActionButton>
-              <h3>📚 View Courses</h3>
+              <h3>View Courses</h3>
               <p>Access your enrolled courses and materials</p>
             </ActionButton>
             <ActionButton>
-              <h3>💬 Join Chat</h3>
+              <h3>Join Chat</h3>
               <p>Connect with classmates and instructors</p>
             </ActionButton>
             <ActionButton>
-              <h3>🎥 Watch Lectures</h3>
+              <h3>Watch Lectures</h3>
               <p>Catch up on recorded video lectures</p>
             </ActionButton>
             <ActionButton>
-              <h3>📊 Check Grades</h3>
+              <h3>Check Grades</h3>
               <p>View your latest marks and progress</p>
             </ActionButton>
             <ActionButton>
-              <h3>📅 Mark Attendance</h3>
+              <h3>Mark Attendance</h3>
               <p>Check in for today's classes</p>
             </ActionButton>
             <ActionButton>
-              <h3>👤 Edit Profile</h3>
+              <h3>Edit Profile</h3>
               <p>Update your account information</p>
             </ActionButton>
           </ActionGrid>

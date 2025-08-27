@@ -153,32 +153,32 @@ const HomePage = () => {
           
           <FeatureGrid>
             <FeatureCard>
-              <h3>🎥 Video Lectures</h3>
+              <h3>Video Lectures</h3>
               <p>High-quality, scalable video streaming with automatic transcoding and adaptive bitrate for optimal viewing experience.</p>
             </FeatureCard>
 
             <FeatureCard>
-              <h3>💬 Real-time Chat</h3>
+              <h3>Real-time Chat</h3>
               <p>Interactive chat rooms for every course with real-time messaging, file sharing, and collaborative discussions.</p>
             </FeatureCard>
 
             <FeatureCard>
-              <h3>📊 Attendance Tracking</h3>
+              <h3>Attendance Tracking</h3>
               <p>Automated attendance monitoring with geolocation validation, QR codes, and comprehensive reporting.</p>
             </FeatureCard>
 
             <FeatureCard>
-              <h3>📈 Grade Management</h3>
+              <h3>Grade Management</h3>
               <p>Complete marks management system with detailed analytics, progress tracking, and performance insights.</p>
             </FeatureCard>
 
             <FeatureCard>
-              <h3>🔐 Secure Authentication</h3>
+              <h3>Secure Authentication</h3>
               <p>Enterprise-grade security with AWS Cognito, multi-factor authentication, and role-based access control.</p>
             </FeatureCard>
 
             <FeatureCard>
-              <h3>⚡ Scalable Infrastructure</h3>
+              <h3>Scalable Infrastructure</h3>
               <p>Built on AWS with auto-scaling capabilities to handle any number of students and concurrent users.</p>
             </FeatureCard>
           </FeatureGrid>

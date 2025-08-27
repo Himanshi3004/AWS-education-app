@@ -517,7 +517,7 @@ const VideoPlayer = ({
                 onClick={togglePlay}
                 aria-label={isPlaying ? 'Pause' : 'Play'}
               >
-                {isPlaying ? '⏸️' : '▶️'}
+                {isPlaying ? 'Pause' : 'Play'}
               </button>
 
               <div className="volume-controls">

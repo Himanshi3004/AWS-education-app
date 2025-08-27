@@ -105,7 +105,7 @@ const Footer = () => {
         </FooterGrid>
 
         <Copyright>
-          <p>&copy; 2024 AWS Education Platform. All rights reserved. Built with ❤️ on AWS.</p>
+          <p>&copy; 2024 AWS Education Platform. All rights reserved. Built with love on AWS.</p>
         </Copyright>
       </FooterContent>
     </FooterContainer>

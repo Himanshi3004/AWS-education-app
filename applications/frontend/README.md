@@ -4,14 +4,14 @@ A modern React.js single-page application for the AWS Education Platform, featur
 
 ## Features
 
-- 🔐 **Secure Authentication** - AWS Cognito integration with role-based access
-- 📚 **Course Management** - Interactive course browser and enrollment
-- 💬 **Real-time Chat** - Live chat rooms for each course
-- 🎥 **Video Lectures** - High-quality video streaming with adaptive bitrate
-- 📅 **Attendance Tracking** - Automated check-in with geolocation validation
-- 📊 **Grade Management** - Comprehensive marks and progress tracking
-- 📱 **Responsive Design** - Mobile-first design with PWA support
-- ⚡ **Performance Optimized** - Code splitting, lazy loading, and CDN delivery
+- **Secure Authentication** - AWS Cognito integration with role-based access
+- **Course Management** - Interactive course browser and enrollment
+- **Real-time Chat** - Live chat rooms for each course
+- **Video Lectures** - High-quality video streaming with adaptive bitrate
+- **Attendance Tracking** - Automated check-in with geolocation validation
+- **Grade Management** - Comprehensive marks and progress tracking
+- **Responsive Design** - Mobile-first design with PWA support
+- **Performance Optimized** - Code splitting, lazy loading, and CDN delivery
 
 ## Technology Stack
 

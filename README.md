@@ -69,7 +69,7 @@ After deployment, Terraform outputs:
 - **API Gateway URL**: Backend API endpoint
 - **Monitoring Dashboard**: CloudWatch dashboard
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 aws-education-platform/
@@ -106,7 +106,7 @@ aws-education-platform/
 └── README.md                   # This file
 ```
 
-## 🎯 Features by User Type
+## Features by User Type
 
 ### Students
 - ✅ Secure login with AWS Cognito
@@ -132,7 +132,7 @@ aws-education-platform/
 - ✅ Performance metrics and dashboards
 - ✅ Cost tracking and optimization
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 Create `.env` file with:
@@ -169,7 +169,7 @@ db_password = "your-secure-password"
 domain_name = "your-domain.com"
 ```
 
-## 🚀 Deployment Environments
+## Deployment Environments
 
 ### Development
 - **Purpose**: Development and testing
@@ -189,7 +189,7 @@ domain_name = "your-domain.com"
 - **Features**: Full redundancy and monitoring
 - **Auto-scaling**: Full scaling enabled
 
-## 🔒 Security Features
+## Security Features
 
 - **Authentication**: Multi-factor authentication with AWS Cognito
 - **Authorization**: Role-based access control (RBAC)
@@ -199,7 +199,7 @@ domain_name = "your-domain.com"
 - **Monitoring**: CloudTrail for audit logs
 - **Compliance**: GDPR and FERPA ready
 
-## 📊 Monitoring & Observability
+## Monitoring & Observability
 
 ### CloudWatch Dashboards
 - **Application Performance**: Response times, error rates
@@ -213,7 +213,7 @@ domain_name = "your-domain.com"
 - **Cost**: Budget threshold alerts
 - **Infrastructure**: Service failures
 
-## 💰 Cost Optimization
+## Cost Optimization
 
 ### Strategies Implemented
 - **Serverless Services**: Pay only for usage
@@ -228,7 +228,7 @@ domain_name = "your-domain.com"
 - **Staging**: $100-200  
 - **Production**: $200-500 (scales with usage)
 
-## 🔧 Available Scripts
+## Available Scripts
 
 ```bash
 # Installation
@@ -256,7 +256,7 @@ npm run setup:env              # Setup environment files
 npm run verify:deployment      # Verify deployment status
 ```
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -304,7 +304,7 @@ aws logs tail /aws/lambda/function-name
 3. Use the verification script: `npm run verify:deployment`
 4. Check AWS service health dashboard
 
-## 🔄 CI/CD Pipeline
+## CI/CD Pipeline
 
 ### GitHub Actions Workflows
 - **Development**: Automatic deployment on push to `develop` branch
@@ -322,7 +322,7 @@ aws logs tail /aws/lambda/function-name
 
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
